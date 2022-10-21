@@ -1,0 +1,40 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header display */
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: crimson;
+    min-width: 100%;
+    align-items: center;
+}
+header h2 {
+    font-size: 70px;
+    text-shadow: 10px 10px 7px white;
+    margin: auto;
+}
+.logo {
+    width: 7em;
+    margin: 2px;
+}
+/* nav display */
+.menu{
+    list-style: none;
+    display: inline-flex;
+}
+.menu a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a:hover {
+    font-size: 30px;
+    border: solid white;
+}
+/* content */
