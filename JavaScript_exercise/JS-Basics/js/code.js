@@ -51,5 +51,25 @@ function myFunction() {
 // console.log(salary++);
 // console.log(bonus)
 
-// const
-const numb1 = 
+// fri 11 nov
+// for-in
+// let person = {
+//     Name: `David`,
+//     Surname: `John`,
+//     Subject: (`HTML5`, `CSS3`),
+//     Address:{
+//          Streetname: `pretoria road`,
+//          Country: `South Africa`,
+//          ComplexName: `PTA`
+//     }
+// }
+// for(let data in person) {
+    
+// }
+
+// for of
+let numbers = [9, 7, 4, 34, 8];
+for(let numbers of numbers) {
+    console.log(number);
+}
+for(let 1)
